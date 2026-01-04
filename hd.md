@@ -1,6 +1,6 @@
-# Homework - Conditionals Input Practice
+# Homework - Conditionals Input Practice 
 
-פתור לפחות שאלה 1
+פתור לפחות שאלה **אחת** -- הפתרון בתרשים זרימה
 
 ## 1
 
